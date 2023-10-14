@@ -1,0 +1,7 @@
+S:\prog\bot\practice10\practice10\obj\Debug\practice10.csproj.AssemblyReference.cache
+S:\prog\bot\practice10\practice10\obj\Debug\practice10.csproj.CoreCompileInputs.cache
+S:\prog\bot\practice10\practice10\bin\Debug\practice10.exe.config
+S:\prog\bot\practice10\practice10\bin\Debug\practice10.exe
+S:\prog\bot\practice10\practice10\bin\Debug\practice10.pdb
+S:\prog\bot\practice10\practice10\obj\Debug\practice10.exe
+S:\prog\bot\practice10\practice10\obj\Debug\practice10.pdb
